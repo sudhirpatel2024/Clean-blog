@@ -1,0 +1,18 @@
+{
+
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https//facebook.com",
+    "tw_url": "https//twitter.com",
+    "gh_url": "https//github.com",
+    "blog_name": "pandit blog",
+    "about_text": "hey this is sudhir kumar patel , In the year June 2018, six technologists Pranaya, Prinsika, Sanvika, Bikash, Sangeeta & Mitali launched the website dot net tutorials to keep track of the latest dot net, Java, Cloud, and UI technologies for Web, Windows, Mobile, and Cloud. Their aim is to create not just a developer or learner-focused content but also aims at give a better understanding of dot net technologies in detail which can be helped to develop a better and more secure application. On this Dot net Tutorials website, you will learn everything about .NET, Java, C, C++, Data Structure & Algorithm, Angular, Node, JavaScript, Cloud, MEAN, MERN, and many more",
+    "number_of_post": 6,
+    "login_image":"bootstrap-logo.svg",
+    "admin_user":"harry",
+    "admin_password": "subscribenow"
+  }
+}
